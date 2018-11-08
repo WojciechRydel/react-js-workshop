@@ -25,7 +25,7 @@ class App extends Component {
 
   clear() {
     this.setState({
-      todos: [],
+      count: 0
     })
   }
 
