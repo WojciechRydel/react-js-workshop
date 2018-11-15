@@ -16,9 +16,8 @@ class App extends Component {
           <ul className="car-list">
             <li>
               <div className="car-info">
-              First car:
-              <span>WAW 12375</span>
-
+              First car
+              <span className="car-registration">WAW 12375</span>
               </div>
             </li>
           </ul>
