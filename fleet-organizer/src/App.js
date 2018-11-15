@@ -9,9 +9,6 @@ function App() {
       </header>
       <div className="fleet-register">
         <h4>Registered Cars</h4>
-        <div className="controls">
-          <button>Sort by name</button>
-        </div>
         <ul className="car-list">
           <li>
             <div className="car-info">
