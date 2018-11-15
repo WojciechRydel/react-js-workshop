@@ -10,10 +10,16 @@ class App extends Component {
         </header>
         <div className="fleet-register">
           <h4>Registered Cars</h4>
+          <div className="controls">
+            <button>Sort by name</button>
+          </div>
           <ul className="car-list">
             <li>
+              <div className="car-info">
               First car:
               <span>WAW 12375</span>
+
+              </div>
             </li>
           </ul>
         </div>
